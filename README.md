@@ -7,7 +7,7 @@ This repository contains the implementation of **Autonomous Navigation and Kinem
 
 The system is designed to execute three distinct navigation strategies, implemented in C++ for microcontrollers (ESP32/Arduino).
 
-## 🚀 Key Features
+## ✨ Key Features
 
 ### 1. Parametric Trajectory Tracking (`3trayectorias.ino`)
 The robot tracks complex mathematical functions defined in time $x_d(t), y_d(t)$.
