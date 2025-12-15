@@ -1,6 +1,6 @@
 # Differential Drive Robot: Path Tracking & Planning
 
-![Platform](https://img.shields.io/badge/Hardware-ESP32%2FArduino-blue) ![Language](https://img.shields.io/badge/Code-C%2B%2B-orange) ![Control](https://img.shields.io/badge/Control-Kinematic-green)
+![Platform](https://img.shields.io/badge/Hardware-ESP32%2FArduino-blue) ![Language](https://img.shields.io/badge/Code-C%2B%2B-orange) ![Control](https://img.shields.io/badge/Control-Kinematic-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Overview
 This repository contains the implementation of **Autonomous Navigation and Kinematic Control** algorithms for a differential drive mobile robot. The project solves the trajectory tracking problem using **Odometry** (Dead Reckoning) and control laws based on **Feedback Linearization**.
