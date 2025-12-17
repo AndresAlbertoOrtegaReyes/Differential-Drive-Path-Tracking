@@ -24,6 +24,11 @@ Generates smooth velocity profiles to navigate from an initial pose $A$ to a fin
 The robot navigates through a sequence of 6 predefined control points using **Linear Splines** [cite: 7-10].
 ***Segmented Path:** Logic switches between linear equations based on accumulated time intervals ($t_{01}, t_{12}, \dots$).
 
+## 🎥 Demo & Results
+Watch the autonomous navigation system executing the trajectory tracking algorithms in real-time:
+
+https://github.com/user-attachments/assets/a50c3c10-4685-4321-8d65-9a8c94e0b22a
+
 ## ⚙️ Mathematical Model
 The control logic is based on the kinematic model of a differential robot located at $(x, y)$ with orientation $\theta$.
 
